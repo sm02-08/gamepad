@@ -1874,26 +1874,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "nomnomnom\n"
-		(exclude_from_sim no)
-		(at 99.314 54.102 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6d807c0c-2611-40ef-a2cc-78b499845ea8")
-	)
-	(text "add a random text thingy thingy"
-		(exclude_from_sim no)
-		(at 108.712 35.306 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a2e1e15b-e3b6-4b59-a83b-a6b2c7ed7b70")
-	)
 	(junction
 		(at 62.23 116.84)
 		(diameter 0)
